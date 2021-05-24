@@ -2211,6 +2211,132 @@
             "keyStrokeTimeStamp": "Mon May 24 2021 17:54:30",
             "keyStrokeInfo": "lap.jpeg",
             "position": "216,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:18",
+            "keyStrokeInfo": "",
+            "position": "216,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:18",
+            "keyStrokeInfo": "",
+            "position": "216,33"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:18",
+            "keyStrokeInfo": "",
+            "position": "216,32"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:19",
+            "keyStrokeInfo": "",
+            "position": "216,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:19",
+            "keyStrokeInfo": "",
+            "position": "216,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:19",
+            "keyStrokeInfo": "",
+            "position": "216,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:19",
+            "keyStrokeInfo": "",
+            "position": "216,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:19",
+            "keyStrokeInfo": "",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:20",
+            "keyStrokeInfo": "a",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:20",
+            "keyStrokeInfo": "v",
+            "position": "216,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:20",
+            "keyStrokeInfo": "i",
+            "position": "216,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:22",
+            "keyStrokeInfo": "avi1.jpg",
+            "position": "216,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:24",
+            "keyStrokeInfo": "",
+            "position": "216,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:24",
+            "keyStrokeInfo": "",
+            "position": "216,33"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:24",
+            "keyStrokeInfo": "",
+            "position": "216,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:25",
+            "keyStrokeInfo": "J",
+            "position": "216,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:26",
+            "keyStrokeInfo": "P",
+            "position": "216,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 17:56:26",
+            "keyStrokeInfo": "G",
+            "position": "216,34"
         }
     ]
 }
