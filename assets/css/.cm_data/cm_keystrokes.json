@@ -2337,6 +2337,48 @@
             "keyStrokeTimeStamp": "Mon May 24 2021 17:56:26",
             "keyStrokeInfo": "G",
             "position": "216,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 19:14:59",
+            "keyStrokeInfo": "",
+            "position": "216,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 19:14:59",
+            "keyStrokeInfo": "",
+            "position": "216,33"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 19:14:59",
+            "keyStrokeInfo": "",
+            "position": "216,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 19:15:00",
+            "keyStrokeInfo": "j",
+            "position": "216,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 19:15:00",
+            "keyStrokeInfo": "p",
+            "position": "216,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 19:15:02",
+            "keyStrokeInfo": "avi1.jpg",
+            "position": "216,27"
         }
     ]
 }
