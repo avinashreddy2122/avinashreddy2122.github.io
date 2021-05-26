@@ -18115,6 +18115,83 @@
             "keyStrokeTimeStamp": "Wed May 26 2021 10:08:15",
             "keyStrokeInfo": "8",
             "position": "221,38"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:23",
+            "keyStrokeInfo": "",
+            "position": "49,32"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:23",
+            "keyStrokeInfo": "",
+            "position": "49,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:23",
+            "keyStrokeInfo": "",
+            "position": "49,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:24",
+            "keyStrokeInfo": "r",
+            "position": "49,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:25",
+            "keyStrokeInfo": "e",
+            "position": "49,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:25",
+            "keyStrokeInfo": "d",
+            "position": "49,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:25",
+            "keyStrokeInfo": "d",
+            "position": "49,33"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:01:26",
+            "keyStrokeInfo": "reddy.jpg",
+            "position": "49,30"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:02:02",
+            "keyStrokeInfo": "redd.jpeg",
+            "position": "49,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:02:03",
+            "keyStrokeInfo": "",
+            "position": "49,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 18:02:04",
+            "keyStrokeInfo": "avi",
+            "position": "49,30"
         }
     ],
     "portfolio-details.html": [
