@@ -18087,6 +18087,34 @@
             "keyStrokeTimeStamp": "Tue May 25 2021 21:14:09",
             "keyStrokeInfo": "Reddy",
             "position": "78,19"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 10:08:15",
+            "keyStrokeInfo": "",
+            "position": "221,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 10:08:15",
+            "keyStrokeInfo": "8",
+            "position": "221,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 10:08:15",
+            "keyStrokeInfo": "",
+            "position": "221,38"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed May 26 2021 10:08:15",
+            "keyStrokeInfo": "8",
+            "position": "221,38"
         }
     ],
     "portfolio-details.html": [
