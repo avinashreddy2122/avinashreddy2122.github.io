@@ -2722,6 +2722,174 @@
             "keyStrokeTimeStamp": "Wed May 26 2021 18:00:48",
             "keyStrokeInfo": "lap.jpeg",
             "position": "216,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:41",
+            "keyStrokeInfo": "",
+            "position": "216,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:41",
+            "keyStrokeInfo": "",
+            "position": "216,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:41",
+            "keyStrokeInfo": "",
+            "position": "216,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:43",
+            "keyStrokeInfo": "",
+            "position": "216,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:43",
+            "keyStrokeInfo": "",
+            "position": "216,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:43",
+            "keyStrokeInfo": "",
+            "position": "216,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:44",
+            "keyStrokeInfo": "",
+            "position": "216,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:44",
+            "keyStrokeInfo": "",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:49",
+            "keyStrokeInfo": "4",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:50",
+            "keyStrokeInfo": "1",
+            "position": "216,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:23:51",
+            "keyStrokeInfo": "0",
+            "position": "216,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:24:12",
+            "keyStrokeInfo": "",
+            "position": "216,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:24:12",
+            "keyStrokeInfo": "",
+            "position": "216,28"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:24:12",
+            "keyStrokeInfo": "",
+            "position": "216,27"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:24:13",
+            "keyStrokeInfo": "41023430-blank-black-diary-and-accessories",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:24:15",
+            "keyStrokeInfo": ".",
+            "position": "216,69"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:24:17",
+            "keyStrokeInfo": "41023430-blank-black-diary-and-accessories.jpg",
+            "position": "216,27"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:27:51",
+            "keyStrokeInfo": "41023430-blank-black-diary-and-accessories.",
+            "position": "216,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:27:51",
+            "keyStrokeInfo": "",
+            "position": "216,69"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:27:51",
+            "keyStrokeInfo": "",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:27:52",
+            "keyStrokeInfo": "410",
+            "position": "216,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:27:53",
+            "keyStrokeInfo": "",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:27:54",
+            "keyStrokeInfo": ".jpeg",
+            "position": "216,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 10:27:55",
+            "keyStrokeInfo": "lap",
+            "position": "216,27"
         }
     ]
 }
